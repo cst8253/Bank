@@ -1,2 +1,4 @@
 # Bank
-This repository contains the starter files for the Bank project
+
+## Objective
+Develop a banking console application that lets the user view accounts, create new accounts, and deposit and withdraw money.
